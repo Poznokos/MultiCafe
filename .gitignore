@@ -1,0 +1,15 @@
+*.iml
+*.roo
+*.tmp
+*.tmp.*
+.checkstyle
+.classpath
+.idea
+.project
+.settings
+bower_components
+coverage-reports
+dist
+node_modules
+target
+test-output
